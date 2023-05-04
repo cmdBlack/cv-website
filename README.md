@@ -1,2 +1,2 @@
 # cv
-Sample Website to showcase my projects and my skills.
+Sample Website to showcase my projects and skills.
